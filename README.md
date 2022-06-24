@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Phirani</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Front-end developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnshPhirani](https://github.com/AnshPhirani)
 
