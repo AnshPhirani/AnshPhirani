@@ -9,7 +9,7 @@
 
 <h2 align="center">🤝Connect With Me🤝</h2>
 <p align="center">
-<a href="https://linkedin.com/in/anshphirani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaumik-maan-337158206" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ansh-phirani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhaumik-maan-337158206" height="30" width="40" /></a>
 &nbsp; &nbsp;
 <a href="https://leetcode.com/anshphirani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Maango16" height="30" width="40" /></a>
 &nbsp; &nbsp;
