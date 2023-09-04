@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anshphirani@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UTL7p8u63xz96EhHpJcmaIawKiTDthVo/view](https://drive.google.com/file/d/1UTL7p8u63xz96EhHpJcmaIawKiTDthVo/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UTL7p8u63xz96EhHpJcmaIawKiTDthVo/view](https://drive.google.com/file/d/11syYdNHSeY3mGs7UeEJNYtlL5m3ecKxs/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
